@@ -1,0 +1,21 @@
+{
+  "name": "serwer_http",
+  "version": "1.0.0",
+  "description": "projekt serwer http",
+  "main": "index.js",
+  "scripts": {
+    "test": "serwer"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u0016https://github.com/enzoxo/zadanie_13_8"
+  },
+  "keywords": [
+    "serwer"
+  ],
+  "author": "Michal",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "0.0.1-security"
+  }
+}
